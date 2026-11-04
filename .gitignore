@@ -1,0 +1,14 @@
+# Ambientes e caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+
+# Dados brutos (pesados; baixe do Kaggle, veja o README)
+data/raw/
+
+# Sistema
+.DS_Store
+Thumbs.db
