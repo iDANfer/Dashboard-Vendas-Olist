@@ -4,12 +4,11 @@ Dashboard interativo em Python que analisa vendas, entregas e comportamento de c
 
 🔗 **Demo online:** [Dashboard Vendas Olist](https://dashboard-vendas-olist-5kqs2eyhb7fztvhdqpqkgg.streamlit.app/)
 
-![clientes por segmento](docs\clientes-por-segmento.png)
-![situacao da entrega](docs\nota-média-por-situação-da-entrega.png)
-![receita mansal](docs\receita-mensal.png)
-![top categoria por receita](docs\top-10-categorias-por-receita.png)
-![top estados por receita](docs\top-10-estados-por-receita.png)
-<!-- Salve um print do dashboard em docs/dashboard.png -->
+![Receita mensal](docs/receita-mensal.png)
+![Top 10 categorias por receita](docs/top-10-categorias-por-receita.png)
+![Top 10 estados por receita](docs/top-10-estados-por-receita.png)
+![Nota média por situação da entrega](docs/entrega-satisfacao.png)
+![Clientes por segmento](docs/clientes-por-segmento.png)
 
 ## Problema de negócio
 
