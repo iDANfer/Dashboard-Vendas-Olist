@@ -4,11 +4,11 @@ Dashboard interativo em Python que analisa vendas, entregas e comportamento de c
 
 🔗 **Demo online:** _cole aqui o link do Streamlit Cloud_
 
-![Dashboard](docs\clientes-por-segmento.png)
-![Dashboard](docs\nota-média-por-situação-da-entrega.png)
-![Dashboard](docs\receita-mensal.png)
-![Dashboard](docs\top-10-categorias-por-receita.png)
-![Dashboard](docs\top-10-estados-por-receita.png)
+![clientes por segmento](docs\clientes-por-segmento.png)
+![situacao da entrega](docs\nota-média-por-situação-da-entrega.png)
+![receita mansal](docs\receita-mensal.png)
+![top categoria por receita](docs\top-10-categorias-por-receita.png)
+![top estados por receita](docs\top-10-estados-por-receita.png)
 <!-- Salve um print do dashboard em docs/dashboard.png -->
 
 ## Problema de negócio
