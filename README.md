@@ -2,7 +2,7 @@
 
 Dashboard interativo em Python que analisa vendas, entregas e comportamento de clientes de um marketplace brasileiro, construído com **pandas, Plotly e Streamlit**.
 
-🔗 **Demo online:** _cole aqui o link do Streamlit Cloud_
+🔗 **Demo online:** [_cole aqui o link do Streamlit Cloud_](https://dashboard-vendas-olist-5kqs2eyhb7fztvhdqpqkgg.streamlit.app/)
 
 ![clientes por segmento](docs\clientes-por-segmento.png)
 ![situacao da entrega](docs\nota-média-por-situação-da-entrega.png)
