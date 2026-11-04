@@ -92,10 +92,3 @@ Python · pandas · Plotly · Streamlit · Parquet
 _Daniel Fernando_ · [LinkedIn](https://www.linkedin.com/in/daniel-fernando-a88a81217/) · [GitHub](https://github.com/idanfer)
 
 Dados: Olist, disponibilizados publicamente no Kaggle.
-
-git init
-git add .
-git commit -m "Dashboard de vendas Olist"
-git branch -M main
-git remote add origin https://github.com/idanfer/Dashboard-Vendas-Olist.git
-git push -u origin main
